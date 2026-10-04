@@ -2,11 +2,12 @@
 
 [← 返回 bvraxi 内容导航](README.md)
 
-本页汇总仓库内“加拿大pc28预测”主题文章，按关键词维度整理，共 **33** 篇。
+本页汇总仓库内“加拿大pc28预测”主题文章，按关键词维度整理，共 **34** 篇。
 
 <!-- gitflow:articles:start -->
-## 预测模型（4篇）
+## 预测模型（5篇）
 
+- [2026年10月实力精选预测:皇冠hg足球即时比分-财金财经](https://github.com/drewcanob/bvraxi/blob/main/2026%E5%B9%B410%E6%9C%88%E5%AE%9E%E5%8A%9B%E7%B2%BE%E9%80%89%E9%A2%84%E6%B5%8B-%E7%9A%87%E5%86%A0hg%E8%B6%B3%E7%90%83%E5%8D%B3%E6%97%B6%E6%AF%94%E5%88%86-%E8%B4%A2%E9%87%91%E8%B4%A2%E7%BB%8F.md) — pc28算账机器人破解主题解读 <!-- gitflow:article:6aea0859e3338018f754b0cf0e7fe8596f73e9ebf0ce5089d5060ee5b5f7c771 -->
 - [2026年10月百发百中预测:网址-昆仑财经](https://github.com/drewcanob/bvraxi/blob/main/2026%E5%B9%B410%E6%9C%88%E7%99%BE%E5%8F%91%E7%99%BE%E4%B8%AD%E9%A2%84%E6%B5%8B-%E7%BD%91%E5%9D%80-%E6%98%86%E4%BB%91%E8%B4%A2%E7%BB%8F.md) — 北京pc28免费下载主题解读 <!-- gitflow:article:82dde341ac800a2ad1df6c43a8fd76d5075321474d19f10c52649dcee214d3a3 -->
 - [2026年10月终极精准预测:皇冠比分90足球-智能财经](https://github.com/drewcanob/bvraxi/blob/main/2026%E5%B9%B410%E6%9C%88%E7%BB%88%E6%9E%81%E7%B2%BE%E5%87%86%E9%A2%84%E6%B5%8B-%E7%9A%87%E5%86%A0%E6%AF%94%E5%88%8690%E8%B6%B3%E7%90%83-%E6%99%BA%E8%83%BD%E8%B4%A2%E7%BB%8F.md) — kj pc28 li主题解读 <!-- gitflow:article:7d8c23cfd6fe8b6efe3a8d8203a527a66df438ec62ea34a73578ead4e38969e4 -->
 - [2026年10月逆天预测:皇冠-云通财经](https://github.com/drewcanob/bvraxi/blob/main/2026%E5%B9%B410%E6%9C%88%E9%80%86%E5%A4%A9%E9%A2%84%E6%B5%8B-%E7%9A%87%E5%86%A0-%E4%BA%91%E9%80%9A%E8%B4%A2%E7%BB%8F.md) — pc28倍投方案主题解读 <!-- gitflow:article:a6981b578815a4ea83a498b9de68a2457b88d4f4dfe83aeadd91f545b466b536 -->
