@@ -2,14 +2,15 @@
 
 [← 返回 bvraxi 内容导航](README.md)
 
-本页汇总仓库内“加拿大pc28预测”主题文章，按关键词维度整理，共 **45** 篇。
+本页汇总仓库内“加拿大pc28预测”主题文章，按关键词维度整理，共 **46** 篇。
 
 <!-- gitflow:articles:start -->
-## 预测模型（7篇）
+## 预测模型（8篇）
 
 - [2026年10月实力精选预测:皇冠hg足球即时比分-财金财经](https://github.com/drewcanob/bvraxi/blob/main/2026%E5%B9%B410%E6%9C%88%E5%AE%9E%E5%8A%9B%E7%B2%BE%E9%80%89%E9%A2%84%E6%B5%8B-%E7%9A%87%E5%86%A0hg%E8%B6%B3%E7%90%83%E5%8D%B3%E6%97%B6%E6%AF%94%E5%88%86-%E8%B4%A2%E9%87%91%E8%B4%A2%E7%BB%8F.md) — pc28算账机器人破解主题解读 <!-- gitflow:article:6aea0859e3338018f754b0cf0e7fe8596f73e9ebf0ce5089d5060ee5b5f7c771 -->
 - [2026年10月百发百中预测:网址-昆仑财经](https://github.com/drewcanob/bvraxi/blob/main/2026%E5%B9%B410%E6%9C%88%E7%99%BE%E5%8F%91%E7%99%BE%E4%B8%AD%E9%A2%84%E6%B5%8B-%E7%BD%91%E5%9D%80-%E6%98%86%E4%BB%91%E8%B4%A2%E7%BB%8F.md) — 北京pc28免费下载主题解读 <!-- gitflow:article:82dde341ac800a2ad1df6c43a8fd76d5075321474d19f10c52649dcee214d3a3 -->
 - [2026年10月硬核数据预测:皇冠90足球比分-数达财经](https://github.com/drewcanob/bvraxi/blob/main/2026%E5%B9%B410%E6%9C%88%E7%A1%AC%E6%A0%B8%E6%95%B0%E6%8D%AE%E9%A2%84%E6%B5%8B-%E7%9A%87%E5%86%A090%E8%B6%B3%E7%90%83%E6%AF%94%E5%88%86-%E6%95%B0%E8%BE%BE%E8%B4%A2%E7%BB%8F.md) — pc28蛋蛋算法破解主题解读 <!-- gitflow:article:50e51df815d7de1bcd6a20d419a9fe44a932db0bcae8e8d894b1395eb301ae14 -->
+- [2026年10月精选模型预测:皇冠-算法财经](https://github.com/drewcanob/bvraxi/blob/main/2026%E5%B9%B410%E6%9C%88%E7%B2%BE%E9%80%89%E6%A8%A1%E5%9E%8B%E9%A2%84%E6%B5%8B-%E7%9A%87%E5%86%A0-%E7%AE%97%E6%B3%95%E8%B4%A2%E7%BB%8F.md) — PC28竞猜主题解读 <!-- gitflow:article:806dbd5596ad25e36146191d1ef39436fee4c55ce3f2594e31a8292fde8dc932 -->
 - [2026年10月终极精准预测:皇冠比分90足球-智能财经](https://github.com/drewcanob/bvraxi/blob/main/2026%E5%B9%B410%E6%9C%88%E7%BB%88%E6%9E%81%E7%B2%BE%E5%87%86%E9%A2%84%E6%B5%8B-%E7%9A%87%E5%86%A0%E6%AF%94%E5%88%8690%E8%B6%B3%E7%90%83-%E6%99%BA%E8%83%BD%E8%B4%A2%E7%BB%8F.md) — kj pc28 li主题解读 <!-- gitflow:article:7d8c23cfd6fe8b6efe3a8d8203a527a66df438ec62ea34a73578ead4e38969e4 -->
 - [2026年10月逆天预测:皇冠-云通财经](https://github.com/drewcanob/bvraxi/blob/main/2026%E5%B9%B410%E6%9C%88%E9%80%86%E5%A4%A9%E9%A2%84%E6%B5%8B-%E7%9A%87%E5%86%A0-%E4%BA%91%E9%80%9A%E8%B4%A2%E7%BB%8F.md) — pc28倍投方案主题解读 <!-- gitflow:article:a6981b578815a4ea83a498b9de68a2457b88d4f4dfe83aeadd91f545b466b536 -->
 - [2027年10月精选前瞻预测:下载-金芽财经](https://github.com/drewcanob/bvraxi/blob/main/2027%E5%B9%B410%E6%9C%88%E7%B2%BE%E9%80%89%E5%89%8D%E7%9E%BB%E9%A2%84%E6%B5%8B-%E4%B8%8B%E8%BD%BD-%E9%87%91%E8%8A%BD%E8%B4%A2%E7%BB%8F.md) — pc28杀组预测主题解读 <!-- gitflow:article:e3f58ee981c48190f59ef4bdbd539d864d4671fd56ab8563d84b01aa75543962 -->
